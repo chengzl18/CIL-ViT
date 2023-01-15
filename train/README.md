@@ -38,7 +38,7 @@ Please check this [issue](https://github.com/carla-simulator/imitation-learning/
 
 ## Reference
 
-[onlytailei/carla_cil_pytorch](https://github.com/onlytailei/carla_cil_pytorch/tree/master)
+[onlytailei/carla_cil_pytorch](https://github.com/onlytailei/carla_cil_pytorch/tree/master)    
 [carla-simulator/imitation-learning](https://github.com/carla-simulator/imitation-learning)    
 [mvpcom/carlaILTrainer](https://github.com/mvpcom/carlaILTrainer)    
 [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410)    
